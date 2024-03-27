@@ -2,8 +2,8 @@
 
 ![ChromeCrasher Logo](images/chrome_crasher_logo.png)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ChromeCrasher.svg)](https://github.com/yourusername/ChromeCrasher/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/ChromeCrasher.svg)](https://github.com/yourusername/ChromeCrasher/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ArianDJ/ChromeCrasher.svg)](https://github.com/yourusername/ChromeCrasher/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ArianDJ/ChromeCrasher.svg)](https://github.com/yourusername/ChromeCrasher/issues)
 
 ChromeCrasher is a collection of JavaScript scripts designed to crash the Google Chrome web browser using various techniques. These scripts can be used for testing and experimentation purposes.
 
