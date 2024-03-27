@@ -1,6 +1,6 @@
 # ChromeCrasher
 
-![ChromeCrasher Logo](images/chrome_crasher_logo.png)
+![ChromeCrasher Logo](./logo.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/ArianDJ/ChromeCrasher.svg)](https://github.com/yourusername/ChromeCrasher/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/ArianDJ/ChromeCrasher.svg)](https://github.com/yourusername/ChromeCrasher/issues)
